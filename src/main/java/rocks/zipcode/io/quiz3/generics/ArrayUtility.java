@@ -13,6 +13,11 @@ public class ArrayUtility<SomeType> {
     }
 
     public SomeType findOddOccurringValue() {
+        SomeType type;
+        for (SomeType t : array){
+
+        }
+
         return null;
     }
 
